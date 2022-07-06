@@ -1,1 +1,32 @@
-{'message': 'This is a test update.'}
+{
+	"schedules": {
+		"sched1": {
+			"title": "5K CELEBRATION",
+			"sub1": "Karaoke",
+			"sub2": "I ACCEPTS REQUESTS!",
+			"date": "JULY 6",
+			"day": "WEDNESDAY",
+			"time": "6PM GMT+8",
+			"platform": "FACEBOOK"
+		},
+		"sched2": {
+			"title": "LATE NIGHT TALKS",
+			"sub1": "Wedding Talks?",
+			"sub2": "MY FIRST JUST CHATTING ON TWITCH!",
+			"date": "JULY 7",
+			"day": "THURSDAY",
+			"time": "6PM GMT+8",
+			"platform": "TWITCH"
+		},
+		"sched3": {
+			"title": "LET'S PLAY",
+			"sub1": "MONSTER HUNTER RISE SUNBREAK",
+			"sub2": "I WANT TO SEE GORE MAGALA TOO!",
+			"date": "JULY 8",
+			"day": "FRIDAY",
+			"time": "6PM GMT+8",
+			"platform": "TWITCH"
+		}
+	},
+	"streams": 3
+}
